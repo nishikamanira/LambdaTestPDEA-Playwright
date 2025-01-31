@@ -1,4 +1,4 @@
-1. Go to GitHub repository "https://github.com/nishika_manira/LambdaTest-Playwright"
+1. Go to GitHub repository "https://github.com/nishika_manira/LambdaTestPDEA-Playwright"
 2. Go to Chrome WebStore and Install gitpod extension for Chrome Browser  
 3. After Extension is installed, click on gitpod link available in git hub project to access it on gitpod.
 4. Install Jetbrains gateway and access repo
