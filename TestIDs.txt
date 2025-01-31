@@ -1,0 +1,17 @@
+Test IDs:
+
+Test on Chrome
+Scenario 1: testID = EKCHK-5AVU0-FEV9R-JRROI
+Scenario 2: testID = PS8WJ-GOSSU-ZNNHC-K7F8S
+Scenario 3: testID = NDTJC-AGTKB-B9MVY-T3H6B
+
+Test on Edge
+Scenario 1: testID = IUXSY-IETOG-CGJQN-HPSHC
+Scenario 2: testID = 9TVXO-5FOEP-1BEAK-CYJ1R
+Scenario 3: testID = EZKAW-EULIV-SVLM5-K4NSJ
+
+Test on FireFox
+Scenario 1: testID = IGMHS-IUMIF-CSBKY-QL2N8
+Scenario 2: testID = ZY0D8-YFNNP-Q5KHZ-LJJLV
+Scenario 3: testID = MOQXW-YP4YN-SYYU0-SZVIM
+
